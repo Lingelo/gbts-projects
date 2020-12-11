@@ -1,0 +1,12 @@
+node_modules/
+.idea/
+*.asm
+*.c
+*.gb
+*.ihx
+*.lk
+*.lst
+*.noi
+*.rel
+*.sym
+
