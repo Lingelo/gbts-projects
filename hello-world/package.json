@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ts2c-target-gdbk-n": "file:/repository/gbts/headers"
+    "ts2c-target-gbts": "1.0.0"
   }
 }
